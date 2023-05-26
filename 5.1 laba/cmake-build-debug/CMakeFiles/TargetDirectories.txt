@@ -1,0 +1,3 @@
+/Users/lelya.rumyningmail.com/Desktop/2 семестр/OAIP/5.1 laba/cmake-build-debug/CMakeFiles/5_1_laba.dir
+/Users/lelya.rumyningmail.com/Desktop/2 семестр/OAIP/5.1 laba/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lelya.rumyningmail.com/Desktop/2 семестр/OAIP/5.1 laba/cmake-build-debug/CMakeFiles/rebuild_cache.dir

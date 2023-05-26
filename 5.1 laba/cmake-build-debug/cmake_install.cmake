@@ -1,4 +1,4 @@
-# Install script for directory: /Users/lelya.rumyningmail.com/Desktop/2 семестр/OAIP/5.2 laba
+# Install script for directory: /Users/lelya.rumyningmail.com/Desktop/2 семестр/OAIP/5.1 laba
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/lelya.rumyningmail.com/Desktop/2 семестр/OAIP/5.2 laba/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/lelya.rumyningmail.com/Desktop/2 семестр/OAIP/5.1 laba/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
