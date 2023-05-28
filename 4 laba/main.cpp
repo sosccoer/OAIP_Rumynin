@@ -2,6 +2,8 @@
 #include <stack>
 #include <string>
 
+//6. (a+b)*(c-d)/e 0.8 4.1 7.9 6.2 3.5 2.38
+
 using namespace std;
 
 bool isOperator(char c) {
