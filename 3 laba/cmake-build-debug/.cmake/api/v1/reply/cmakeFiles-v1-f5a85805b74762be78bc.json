@@ -21,6 +21,11 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeUnixFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
@@ -929,6 +934,21 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -1143,8 +1163,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/lelya.rumyningmail.com/Desktop/2 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/OAIP/3 laba/cmake-build-debug",
-		"source" : "/Users/lelya.rumyningmail.com/Desktop/2 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/OAIP/3 laba"
+		"build" : "/Users/lelya.rumyningmail.com/Desktop/OAIP_Rumynin/3 laba/cmake-build-debug",
+		"source" : "/Users/lelya.rumyningmail.com/Desktop/OAIP_Rumynin/3 laba"
 	},
 	"version" : 
 	{
